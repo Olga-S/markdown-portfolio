@@ -1,1 +1,1 @@
-https://github.com/Olga-S
+[GitHub](http://github.com/Olga-S)
